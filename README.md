@@ -13,7 +13,10 @@ AtliQ faced significant losses due to reliance on Excel for analytics, especiall
 Solution:
 Built a multi-page Power BI Dashboard to support Finance, Sales, Marketing, Supply Chain & Executive teams with actionable insights.
 
-Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiYjZkMTY4ODktOWE1NS00MjQ4LWIxMDQtZWVkNTZhNGU4MThhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## Live Dashboard
+
+[Business Insights 360 Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiYjZkMTY4ODktOWE1NS00MjQ4LWIxMDQtZWVkNTZhNGU4MThhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 Key Dashboard Views:
 - Home: Navigation hub for the report
