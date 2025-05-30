@@ -15,7 +15,7 @@ Built a multi-page Power BI Dashboard to support Finance, Sales, Marketing, Supp
 
 ## Data Set 
 
-[Business Insights 360 Data Set](https://drive.google.com/drive/folders/1W-KGlbU7a0QwE3qR0HUY7vvisTn9FZ7Z?usp=drive_link)
+[Business Insights 360 Data Set](https://drive.google.com/file/d/1Z9TYFKhDUK2BZ5_nHaGbMPLEMOLIOpMO/view?usp=sharing)
 
 ## Live Dashboard
 
