@@ -52,4 +52,5 @@ Why This Project Matters:
 
 Would love your thoughts or feedback!  
 If you liked this project, feel free to connect.  
-#PowerBI #DataAnalytics #Dashboard #SQL #DAX #BusinessIntelligence #PortfolioProject
+
+[LinkedIn](https://www.linkedin.com/in/souravpaulofficial/)
